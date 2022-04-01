@@ -215,6 +215,8 @@ palantir/tslint
 
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
 
+[RIAEvangelist/node-ipc/issues/233](https://github.com/RIAEvangelist/node-ipc/issues/233)
+
 [rms-open-letter](https://rms-open-letter.github.io/)
 
 [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
