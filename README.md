@@ -34,6 +34,8 @@ a good indicator that it could be included here.
 
 [angular/angular-cli/issues/1252](https://github.com/angular/angular-cli/issues/1252)
 
+[audacity/audacity/pull/835](https://github.com/audacity/audacity/pull/835)
+
 [ant-design/ant-design/issues/13098](https://github.com/ant-design/ant-design/issues/13098)
 
 [ariya/phantomjs/issues/15345](https://github.com/ariya/phantomjs/issues/15345)
@@ -49,6 +51,8 @@ a good indicator that it could be included here.
 [bower/bower/pull/1748](https://github.com/bower/bower/pull/1748)
 
 [chrisaljoudi/uBlock/pull/1517](https://github.com/chrisaljoudi/uBlock/pull/1517)
+
+[CleverRaven/Cataclysm-DDA/pull/51079](https://github.com/CleverRaven/Cataclysm-DDA/pull/51079)
 
 [CVarisco/community-story/pull/1](https://github.com/CVarisco/community-story/pull/1)
 
@@ -74,9 +78,13 @@ a good indicator that it could be included here.
 
 [facebook/react/issues/10191](https://github.com/facebook/react/issues/10191)
 
+[flathub/flathub/pull/1978](https://github.com/flathub/flathub/pull/1978)
+
 [flutter/flutter/issues/11609](https://github.com/flutter/flutter/issues/11609)
 
 [golang/go/issues/21956](https://github.com/golang/go/issues/21956)
+
+[golang/go/issues/33021](https://github.com/golang/go/issues/33021)
 
 [google/googletest/issues/1660](https://github.com/google/googletest/issues/1660) Horrible Documentation
 
@@ -84,13 +92,15 @@ a good indicator that it could be included here.
 
 [GoogleCloudPlatform/click-to-deploy/pull/209](https://github.com/GoogleCloudPlatform/click-to-deploy/pull/209)
 
+[greatsuspender/thegreatsuspender/issues/1175](https://github.com/greatsuspender/thegreatsuspender/issues/1175)
+
 [grimfang4/sdl-gpu/issues/2](https://github.com/grimfang4/sdl-gpu/issues/2)
 
 [Homebrew/homebrew-core/issues/24654](https://github.com/Homebrew/homebrew-core/issues/24654) (archived: [https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB](https://web.archive.org/web/20180305121204/http://cc.bingj.com/cache.aspx?q=https%3a%2f%2fgithub.com%2fHomebrew%2fhomebrew-core%2fissues%2f24654&d=695653734807&mkt=en-WW&setlang=en-US&w=Pu9hVlBoNKrKONMP0ZEtZ0J600Qly9xB))
 
-[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151)
+[Homebrew/homebrew-services/issues/151](https://github.com/Homebrew/homebrew-services/issues/151) (deleted, [archive](https://web.archive.org/web/20190512053827/https://github.com/Homebrew/homebrew-services/issues/151))
 
-[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683)
+[Homebrew/legacy-homebrew/issues/50683](https://github.com/Homebrew/legacy-homebrew/issues/50683) (deleted, [archive](https://web.archive.org/web/20190629075855/https://github.com/Homebrew/legacy-homebrew/issues/50683))
 
 [irungentoo/toxcore/issues/1227](https://github.com/irungentoo/toxcore/issues/1227)
 
@@ -103,6 +113,10 @@ a good indicator that it could be included here.
 [joyent/libuv/pull/1015](https://github.com/joyent/libuv/pull/1015)
 
 [JuliaLang/IJulia.jl/issues/398](https://github.com/JuliaLang/IJulia.jl/issues/398)
+
+[jquery/download.jqueryui.com/issues/359](https://github.com/jquery/download.jqueryui.com/issues/359)
+
+[jquery/download.jqueryui.com/issues/390](https://github.com/jquery/download.jqueryui.com/issues/390)
 
 [kenwheeler/slick/issues/681](https://github.com/kenwheeler/slick/issues/681)
 
@@ -121,12 +135,16 @@ lerna/lerna
 * [/issues/1632](https://github.com/lerna/lerna/issues/1632)
 * [/pull/1633](https://github.com/lerna/lerna/pull/1633)
 
+[spatie/laravel-newsletter/pull/228](https://github.com/spatie/laravel-newsletter/pull/228)
+
 [Microsoft/TypeScript/pull/3622](https://github.com/Microsoft/TypeScript/pull/3622)
 
 [Microsoft/web-build-tools/issues/673](https://github.com/Microsoft/web-build-tools/issues/673)
 
 [Microsoft/vscode/issues/32405](https://web.archive.org/web/20170817095211/https://github.com/Microsoft/vscode/issues/32405)
+
 [Microsoft/vscode/issues/54261](https://github.com/Microsoft/vscode/issues/54261)
+
 [mishoo/UglifyJS2/issues/2054](https://github.com/mishoo/UglifyJS2/issues/2054)
 
 [moment/moment/issues/1407](https://github.com/moment/moment/issues/1407)
@@ -138,6 +156,8 @@ lerna/lerna
 [mozilla-jetpack/jpm/pull/357/commits](https://github.com/mozilla-jetpack/jpm/pull/357/commits)
 
 [MrMEEE/bumblebee-Old-and-abbandoned/issues/123](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123)
+
+[NationalSecurityAgency/ghidra/issues/371](https://github.com/NationalSecurityAgency/ghidra/issues/371)
 
 [NixOS/nixpkgs/issues/4952](https://github.com/NixOS/nixpkgs/issues/4952)
 
@@ -178,13 +198,25 @@ palantir/tslint
 
 [PiotrGrochowski/Consolas/issues/1](https://github.com/PiotrGrochowski/Consolas/issues/1)
 
+
+[PolyMC/PolyMC/commit/ccf2825](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee)
+
+[PolyMC/PolyMC/issues/656](https://github.com/PolyMC/PolyMC/issues/656)
+
+
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
+
+[projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
 
 [ptsteadman/notebook/pull/1](https://github.com/ptsteadman/notebook/pull/1)
 
+[pyca/cryptography/issues/5771](https://github.com/pyca/cryptography/issues/5771)
+
 [pypa/pipenv/issues/1050](https://github.com/pypa/pipenv/issues/1050)
+
+[python/mypy/issues/11492](https://github.com/python/mypy/issues/11492)
 
 [rails/rails/issues/5228](https://github.com/rails/rails/issues/5228)
 * [rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57](https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57)
@@ -193,9 +225,13 @@ palantir/tslint
 
 [rails/rails/pull/5329](https://github.com/rails/rails/pull/5329)
 
-[rails/rails/pull/31434](https://github.com/rails/rails/pull/31434)
-
 [resque/resque/issues/1406](https://github.com/resque/resque/issues/1406)
+
+[rms-open-letter](https://rms-open-letter.github.io/)
+
+[rollup/rollup/issues/2716](https://github.com/rollup/rollup/issues/2716)
+
+[spring-projects/spring-hateoas/issues/66](https://github.com/spring-projects/spring-hateoas/issues/66)
 
 [standard/standard/issues/1381](https://github.com/standard/standard/issues/1381)
 
@@ -245,7 +281,11 @@ palantir/tslint
 
 [WICG/interventions/issues/18](https://github.com/WICG/interventions/issues/18)
 
+[Jguer/yay/issues/496](https://github.com/Jguer/yay/issues/496)
+
 [zenparsing/es-observable/pull/97](https://github.com/zenparsing/es-observable/pull/97)
+
+[Delgan/loguru/issues/563](https://github.com/Delgan/loguru/issues/563)
 
 
 [@webdevdrama](https://twitter.com/webdevdrama) on Twitter
