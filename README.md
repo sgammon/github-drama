@@ -204,6 +204,8 @@ palantir/tslint
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
+[prettier/prettier/issues/6360](https://github.com/prettier/prettier/issues/6360)
+
 [projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
 [promises-aplus/promises-spec/issues/94](https://github.com/promises-aplus/promises-spec/issues/94)
