@@ -204,7 +204,10 @@ palantir/tslint
 
 [PowerShell/PowerShell/pull/1901](https://github.com/PowerShell/PowerShell/pull/1901)
 
-[prettier/prettier/issues/6360](https://github.com/prettier/prettier/issues/6360)
+[prettier/prettier/issues/6360](https://github.com/prettier/prettier/issues/6360),
+[archive.org](https://web.archive.org/web/20230223102853/https://github.com/prettier/prettier/issues/6360),
+[archive.ph](https://archive.ph/7BHpX),
+[ghostarchive.org](https://ghostarchive.org/archive/JxzOj)
 
 [projecthamster/hamster/issues/574](https://github.com/projecthamster/hamster/issues/574)
 
